@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1678097786 source:c:\users\adria\documents\mega\informatik (studium)\2 semester\objektorientierte programmierung\owasencrawler- with classh - with vector\character.cpp
+	"character.h"
+	<iostream>
+	"world.h"
+	<string>
+
+1678121153 c:\users\adria\documents\mega\informatik (studium)\2 semester\objektorientierte programmierung\owasencrawler- with classh - with vector\character.h
+	<iostream>
+
+1678113531 c:\users\adria\documents\mega\informatik (studium)\2 semester\objektorientierte programmierung\owasencrawler- with classh - with vector\world.h
+	"character.h"
+	"rival.h"
+	<vector>
+
+1678351971 c:\users\adria\documents\mega\informatik (studium)\2 semester\objektorientierte programmierung\owasencrawler- with classh - with vector\rival.h
+	"character.h"
+
+1678351761 source:c:\users\adria\documents\mega\informatik (studium)\2 semester\objektorientierte programmierung\owasencrawler- with classh - with vector\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<vector>
+	"world.h"
+	"character.h"
+	"rival.h"
+
+1678120967 source:c:\users\adria\documents\mega\informatik (studium)\2 semester\objektorientierte programmierung\owasencrawler- with classh - with vector\world.cpp
+	<iostream>
+	<time.h>
+	"world.h"
+
+1678347523 source:c:\users\adria\documents\mega\informatik (studium)\2 semester\objektorientierte programmierung\owasencrawler- with classh - with vector\rival.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rival.h"
+
