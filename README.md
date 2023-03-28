@@ -1,1 +1,3 @@
 # Oassencrawler
+
+Oassencrawler is a text-based adventure game where the player takes on the role of a character who must navigate through a series of randomly generated worlds to find and collect relics. Along the way, the player will encounter rivals who must be defeated and obstacles that must be overcome. The game features multiple levels of increasing difficulty, with the player having the option to start a new level after successfully completing the previous one. The game also includes a skill points system that allows the player to customize their character's abilities, and a statistics screen that displays information about the player's progress throughout the game.
